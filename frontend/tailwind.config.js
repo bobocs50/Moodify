@@ -23,6 +23,7 @@ module.exports = {
       },
 
       colors: {
+        spotify: "#1DB954",
         primary: "#1A56DB",
         primary2: "#F0F6FA",
         primary3: "#9DC5DB",
@@ -58,10 +59,10 @@ module.exports = {
       },
 
       spacing: {
-        9.5: "38px",
-        7.5: "30px",
-        "pdf-w": "650px",
-        "pdf-h": "920px",
+        "chat-w": "450px",
+        "text-w": "500px",
+        "text-h": "600px",
+        "button-w": "182px",
         "sidebar": "730px",
         "test":"886px"
       },
